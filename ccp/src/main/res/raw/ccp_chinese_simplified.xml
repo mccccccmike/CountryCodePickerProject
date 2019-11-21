@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <data>
     <messages>
-        <ccp_dialog_title translation="选择国家" />
+        <ccp_dialog_title translation="选择国家/地区" />
         <ccp_dialog_search_hint_message translation="搜索..." />
         <ccp_dialog_no_result_ack_message translation="结果未发现" />
     </messages>
